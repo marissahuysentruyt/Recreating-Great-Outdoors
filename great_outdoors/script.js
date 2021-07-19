@@ -1,4 +1,4 @@
-only works if I write inside the html body currently. I must not have the file linked correctly. 
+// only works if I write inside the html body currently. I must not have the file linked correctly. 
 
 // Get the modal
 var modal = document.getElementById("modal");
@@ -26,4 +26,4 @@ window.onclick = function(event) {
   }
 }
 
-// don't know how to stop the video from playing once 
+// don't know how to stop the video from playing once it starts (.pause?)
